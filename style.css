@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+body {
+    background-color: rgb(255, 237, 243);
+}
+
+h2 {
+    text-align: center;
+    font-size: 25px;
+    padding: 30px;
+    font-weight: bold;
+}
+
+li {
+    margin: 15px auto;
+    text-align: center;
+    padding: 10px 0;
+    background-color: rgb(253, 195, 214);
+    width: 30%;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+
+
+}
+
+footer {
+    color: #000;
+    font-size: 15px;
+    margin: 20px 0 0 ;
+    text-align: center;
+    padding: 15px;
+
+}
+
+footer img {
+    width: 70px;
+    border-radius: 15px;
+
+}
+
+
