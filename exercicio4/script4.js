@@ -10,7 +10,7 @@ function media() {
 
     console.log(resultado);
 
-    if(media > 60) {
+    if(media >= 60) {
         reprovadoaprovado.innerHTML = `<p>Aprovado ${media}</p>`;
     } else {
         dif = 60 - media
